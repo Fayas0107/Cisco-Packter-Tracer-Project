@@ -1,4 +1,4 @@
-# Cisco-Packter-Tracer-Project
+# Cisco-Packet-Tracer-Project
 This project showcases a network topology designed using various Cisco technologies and configurations. 
 It includes multiple network setups, demonstrating the integration of different VLANs, routing protocols (such as OSPF and EIGRP), and security features like access control lists (ACLs).
 The project aims to simulate and optimize network performance across different segments, including LAN and WAN environments.
